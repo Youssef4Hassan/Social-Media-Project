@@ -51,7 +51,7 @@ Conversion and Spend by Ad
 Conversion by Location
 Conversion by Device
 
-![Image](https://github.com/user-attachments/assets/3d207a75-2c32-49d4-954c-5ba59c2dd89a)
+![Image](https://github.com/user-attachments/assets/67cad091-5d8e-4de8-8145-2350f1a0ff91)
 
 
 Step 7 : Create Visual filtersin bookmarks  (Slicers) were added for Two fields named "campaign", "Channel". 
